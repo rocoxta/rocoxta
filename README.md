@@ -6,7 +6,7 @@
 - :seedling: Learning more about Cloud Architecture, Software Engineering and Machine Learning
 - :handshake: You can also find me on [LinkedIn](https://www.linkedin.com/in/rocoxta/)
 ### ⭐ Stack:
-- 💻 Python ● Linux ● Docker ● K8s ● Ansible ● Terraform
+- 💻 Python ● C# ● Js ● Linux ● Docker ● K8s ● Ansible ● Terraform
 - 🌩️	AWS, Azure and GCP
  
 ### 🤩 Passions:
@@ -42,8 +42,10 @@
 
 * * *
 <div style="display: inline_block" align="center">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/csharp.svg">
+ <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
