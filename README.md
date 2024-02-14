@@ -6,7 +6,7 @@
 - :seedling: Learning more about Cloud Architecture, Software Engineering and Machine Learning
 - :handshake: You can also find me on [LinkedIn](https://www.linkedin.com/in/rocoxta/)
 ### ⭐ Stack:
-- 💻 Python ● GO ● C# ● Js ● Linux ● Docker ● K8s ● Ansible ● Terraform
+- 💻 Python ● Go ● C# ● Js ● Linux ● Docker ● K8s ● Ansible ● Terraform
 - 🌩️	AWS, Azure and GCP
  
 ### 🤩 Passions:
